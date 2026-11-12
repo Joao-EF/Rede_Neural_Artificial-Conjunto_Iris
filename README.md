@@ -75,7 +75,7 @@ python rede_neural.py
 
 Durante o treinamento, o programa imprime a perda a cada 100 épocas. Ao final, exibe a acurácia no conjunto de teste.
 
-**Acurácia final no conjunto de teste:** XX,XX%
+**Acurácia final no conjunto de teste:** 96,67%
 
 ## Estrutura do repositório
 
